@@ -1,7 +1,6 @@
-== README
+== Project Blue, version 2.0
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The guide to the digital Atenean.
 
 Things you may want to cover:
 
